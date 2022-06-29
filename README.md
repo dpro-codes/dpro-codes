@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola! 👋 My name is Diana and I'm a Software Engineer Intern at ASICS Digital.
+
+- 🙋🏽‍♀️ Pronouns: She/Her
+- 🎓 I am graduate of Northeastern and Boston University. Go Huskies and Terriers!
+- 🌱 I’m currently learning React, Chai and Mocha.
+- 💬 Ask me about dancing, playing the piano or practicing qigong.
+- ⚡ Fun fact: I am a big U2 fan and have seen them in concert 20 times!
+- 💻 Learn more about me on my [personal website](https://www.dianaruizolvera.com).
+
 
 <!--
 **dpro-codes/dpro-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
