@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning React and Redux.
 - 💬 Ask me about Cuban salsa, running or practicing qigong.
 - ⚡ Fun fact: I am a big U2 fan and have seen them in concert 20 times!
-- 💻 Learn more about me on my [personal website](https://www.dianaruizolvera.com).
 
 
 <!--
