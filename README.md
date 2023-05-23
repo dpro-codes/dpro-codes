@@ -1,10 +1,10 @@
-### Hola! 👋 My name is Diana and I am a Software Engineer at ASICS Digital.
+### Hola! 👋 My name is Diana and I am a Software Engineer Co-op at ASICS Digital.
 
-- 🙋🏽‍♀️ Pronouns: She/Her/Hers
 - 🎓 I am graduate of Northeastern and Boston University. Go Huskies and Terriers!
-- 🌱 I’m currently learning React and Redux.
-- 💬 Ask me about Cuban salsa, running or practicing qigong.
-- ⚡ Fun fact: I am a big U2 fan and have seen them in concert 20 times!
+- 🔭 I’m currently focused on Front-End Development using React and Redux.
+- 🌱 I'm currently learning Java and brushing up on Python.
+- 🫶 My hobbies are teaching Cuban salsa, working out, playing piano, and practicing qigong.
+- ⚡ Fun fact: I am a big U2 fan and have seen them in concert 22 times!
 
 
 <!--
